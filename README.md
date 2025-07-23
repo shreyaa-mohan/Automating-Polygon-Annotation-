@@ -69,9 +69,8 @@ Built for scenarios like:
 
 ## 📦 Output Samples
 
-- ✅ `output_annotated_video.mp4`  
+- ✅ `sampleoutput.mp4`  
   A stitched, annotated video showing real-time polygon tracking.  
-
 [▶️ Click to watch annotated output video on Google Drive](https://drive.google.com/file/d/1hKKO44qK-TR8NXGtdXRoL6c1C1ONvR7V/view?usp=drive_link)
 
 
