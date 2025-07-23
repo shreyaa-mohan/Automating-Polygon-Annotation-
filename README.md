@@ -65,6 +65,8 @@ Built for scenarios like:
 
 ## 🖼 Pipeline Diagram  
 <img width="500" height="460" alt="image" src="https://github.com/user-attachments/assets/c9e76e0e-396c-4f28-8e7c-04c1a6688fd5" />    
+
+
 ## 📦 Output Samples
 
 - ✅ `output_annotated_video.mp4`  
