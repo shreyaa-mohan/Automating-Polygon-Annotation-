@@ -62,13 +62,13 @@ Built for scenarios like:
 
 ---
 
+
+## 🖼 Pipeline Diagram  
+<img width="500" height="460" alt="image" src="https://github.com/user-attachments/assets/c9e76e0e-396c-4f28-8e7c-04c1a6688fd5" />    
 ## 📦 Output Samples
 
 - ✅ `output_annotated_video.mp4`  
-  A stitched, annotated video showing real-time polygon tracking.
-## 🖼 Pipeline Diagram  
-<img width="500" height="460" alt="image" src="https://github.com/user-attachments/assets/c9e76e0e-396c-4f28-8e7c-04c1a6688fd5" />    
-
+  A stitched, annotated video showing real-time polygon tracking.  
 
 [▶️ Click to watch annotated output video on Google Drive](https://drive.google.com/file/d/1hKKO44qK-TR8NXGtdXRoL6c1C1ONvR7V/view?usp=drive_link)
 
